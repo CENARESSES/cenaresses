@@ -1,0 +1,69 @@
+{
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Performance du SIMR pour la détection précoce des épidémies",
+      "description": "Évaluation des délais de remontée de l'information et des goulots d'étranglement dans la chaîne de surveillance du choléra, de la rougeole et de la méningite.",
+      "icon": "📡",
+      "status": "En cours"
+    },
+    {
+      "id": "p2",
+      "title": "Lutte antivectorielle et saisonnalité du paludisme",
+      "description": "Analyse de la réactivité des stratégies de contrôle vectoriel face à l'évolution de la saisonnalité de la transmission palustre au Tchad.",
+      "icon": "🦟",
+      "status": "En cours"
+    },
+    {
+      "id": "p3",
+      "title": "Qualité des données de routine du système d'information sanitaire",
+      "description": "Étude des facteurs déterminant la complétude et l'utilisation des données du SIS pour la décision au niveau district.",
+      "icon": "📊",
+      "status": "Actif"
+    },
+    {
+      "id": "p4",
+      "title": "Accès à l'eau, hygiène et maladies hydriques",
+      "description": "Étude de la mise en œuvre d'interventions communautaires WASH en appui à la prévention du choléra en zone rurale.",
+      "icon": "💧",
+      "status": "Planifié"
+    }
+  ],
+  "publications": [
+    {
+      "id": "pub1",
+      "title": "Délais de notification des maladies à potentiel épidémique dans le système SIMR au Tchad",
+      "authors": "Équipe CENARESSES",
+      "year": 2025,
+      "type": "Rapport technique"
+    },
+    {
+      "id": "pub2",
+      "title": "Facteurs associés à la complétude des rapports de surveillance de routine",
+      "authors": "Équipe CENARESSES",
+      "year": 2024,
+      "type": "Article de recherche"
+    },
+    {
+      "id": "pub3",
+      "title": "Note d'orientation : renforcer la réactivité de la chaîne de surveillance épidémiologique",
+      "authors": "Équipe CENARESSES",
+      "year": 2024,
+      "type": "Note d'orientation"
+    }
+  ],
+  "team": [
+    { "id": "t1", "name": "À compléter", "role": "Directeur exécutif", "speciality": "Santé publique", "icon": "👤" },
+    { "id": "t2", "name": "À compléter", "role": "Coordinatrice de recherche", "speciality": "Médecine / épidémiologie", "icon": "👤" },
+    { "id": "t3", "name": "À compléter", "role": "Chercheur principal", "speciality": "Statistique et analyse de données", "icon": "👤" },
+    { "id": "t4", "name": "À compléter", "role": "Responsable projets", "speciality": "Santé environnementale", "icon": "👤" }
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "title": "Soumission d'un projet de recherche à l'appel conjoint OMS/AFRO - TDR 2026-2027",
+      "date": "2026-09-01",
+      "content": "CENARESSES prépare la soumission d'un projet portant sur le renforcement du système de surveillance épidémiologique au Tchad."
+    }
+  ]
+}
