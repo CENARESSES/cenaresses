@@ -13,7 +13,7 @@ import {
 // En production : remplacez par l'URL de votre backend déployé
 // (ex: https://api.cenaresses.org), ou par '/api' si le backend
 // sert aussi le site (voir README du backend).
-const API_BASE_URL = 'http://localhost:4000';
+const API_BASE_URL = 'https://cenaresses.onrender.com';
 
 const COLORS = {
   blueDeep: '#12384C',
