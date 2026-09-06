@@ -1,0 +1,15 @@
+{
+  "short_name": "CENARESSES",
+  "name": "CENARESSES — Centre Africain de Recherches et d'Études en Sciences Sociales, Environnementales et de la Santé",
+  "icons": [
+    {
+      "src": "logo_cenaresses.png",
+      "type": "image/png",
+      "sizes": "271x259"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#12384C",
+  "background_color": "#FAF8F3"
+}

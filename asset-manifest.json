@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cenaresses-website/static/css/main.03eefd18.css",
+    "main.js": "/cenaresses-website/static/js/main.8d703f0f.js",
+    "index.html": "/cenaresses-website/index.html",
+    "main.03eefd18.css.map": "/cenaresses-website/static/css/main.03eefd18.css.map",
+    "main.8d703f0f.js.map": "/cenaresses-website/static/js/main.8d703f0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03eefd18.css",
+    "static/js/main.8d703f0f.js"
+  ]
+}
