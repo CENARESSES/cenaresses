@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cenaresses/static/css/main.eaa680bf.css",
-    "main.js": "/cenaresses/static/js/main.e912704a.js",
+    "main.js": "/cenaresses/static/js/main.c842d580.js",
     "index.html": "/cenaresses/index.html",
     "main.eaa680bf.css.map": "/cenaresses/static/css/main.eaa680bf.css.map",
-    "main.e912704a.js.map": "/cenaresses/static/js/main.e912704a.js.map"
+    "main.c842d580.js.map": "/cenaresses/static/js/main.c842d580.js.map"
   },
   "entrypoints": [
     "static/css/main.eaa680bf.css",
-    "static/js/main.e912704a.js"
+    "static/js/main.c842d580.js"
   ]
 }
